@@ -1,0 +1,1867 @@
+2019-08-24 01:21:44,426 - Using Log4J as the default logging framework
+2019-08-24 01:21:44,435 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 01:21:44,481 - java.nio.Buffer.address: available
+2019-08-24 01:21:44,481 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 01:21:44,481 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 01:21:44,482 - java.nio.Bits.unaligned: true
+2019-08-24 01:21:44,482 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 01:21:44,485 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 01:21:44,487 - Java version: 8
+2019-08-24 01:21:44,487 - -Dio.netty.noUnsafe: false
+2019-08-24 01:21:44,487 - sun.misc.Unsafe: available
+2019-08-24 01:21:44,488 - -Dio.netty.noJavassist: false
+2019-08-24 01:21:44,489 - Javassist: unavailable
+2019-08-24 01:21:44,490 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 01:21:44,490 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 01:21:44,491 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 01:21:44,491 - -Dio.netty.noPreferDirect: false
+2019-08-24 01:21:44,492 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 01:21:44,540 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 01:21:44,541 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 01:21:44,606 - -Dio.netty.processId: 19549 (auto-detected)
+2019-08-24 01:21:44,608 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 01:21:44,609 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 01:21:44,611 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 01:21:44,613 - -Dio.netty.initialSeedUniquifier: 0x013f6ff9403b0a93
+2019-08-24 01:21:44,626 - -Dio.netty.leakDetection.level: simple
+2019-08-24 01:21:44,627 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 01:21:44,659 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 01:21:44,659 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 01:21:44,660 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 01:21:44,661 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 01:21:44,676 - -Dio.netty.allocator.type: pooled
+2019-08-24 01:21:44,676 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 01:21:44,676 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 01:41:13,034 - Using Log4J as the default logging framework
+2019-08-24 01:41:13,040 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 01:41:13,071 - java.nio.Buffer.address: available
+2019-08-24 01:41:13,071 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 01:41:13,072 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 01:41:13,072 - java.nio.Bits.unaligned: true
+2019-08-24 01:41:13,073 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 01:41:13,074 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 01:41:13,075 - Java version: 8
+2019-08-24 01:41:13,075 - -Dio.netty.noUnsafe: false
+2019-08-24 01:41:13,075 - sun.misc.Unsafe: available
+2019-08-24 01:41:13,076 - -Dio.netty.noJavassist: false
+2019-08-24 01:41:13,077 - Javassist: unavailable
+2019-08-24 01:41:13,077 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 01:41:13,077 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 01:41:13,077 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 01:41:13,078 - -Dio.netty.noPreferDirect: false
+2019-08-24 01:41:13,078 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 01:41:13,100 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 01:41:13,100 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 01:41:13,156 - -Dio.netty.processId: 20926 (auto-detected)
+2019-08-24 01:41:13,159 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 01:41:13,160 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 01:41:13,161 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 01:41:13,163 - -Dio.netty.initialSeedUniquifier: 0x045bfb68aa3e0732
+2019-08-24 01:41:13,176 - -Dio.netty.leakDetection.level: simple
+2019-08-24 01:41:13,176 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 01:41:13,197 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 01:41:13,197 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 01:41:13,197 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 01:41:13,197 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 01:41:13,198 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 01:41:13,198 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 01:41:13,198 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 01:41:13,198 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 01:41:13,198 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 01:41:13,198 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 01:41:13,207 - -Dio.netty.allocator.type: pooled
+2019-08-24 01:41:13,207 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 01:41:13,207 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 01:45:39,987 - Using Log4J as the default logging framework
+2019-08-24 01:45:39,993 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 01:45:40,048 - java.nio.Buffer.address: available
+2019-08-24 01:45:40,049 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 01:45:40,049 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 01:45:40,050 - java.nio.Bits.unaligned: true
+2019-08-24 01:45:40,055 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 01:45:40,057 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 01:45:40,058 - Java version: 8
+2019-08-24 01:45:40,058 - -Dio.netty.noUnsafe: false
+2019-08-24 01:45:40,058 - sun.misc.Unsafe: available
+2019-08-24 01:45:40,058 - -Dio.netty.noJavassist: false
+2019-08-24 01:45:40,059 - Javassist: unavailable
+2019-08-24 01:45:40,063 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 01:45:40,063 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 01:45:40,064 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 01:45:40,064 - -Dio.netty.noPreferDirect: false
+2019-08-24 01:45:40,065 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 01:45:40,099 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 01:45:40,099 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 01:45:40,154 - -Dio.netty.processId: 21250 (auto-detected)
+2019-08-24 01:45:40,157 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 01:45:40,158 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 01:45:40,159 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 01:45:40,160 - -Dio.netty.initialSeedUniquifier: 0x2a766031a60a3e0b
+2019-08-24 01:45:40,172 - -Dio.netty.leakDetection.level: simple
+2019-08-24 01:45:40,172 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 01:45:40,197 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 01:45:40,197 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 01:45:40,197 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 01:45:40,198 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 01:45:40,199 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 01:45:40,200 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 01:45:40,200 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 01:45:40,200 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 01:45:40,200 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 01:45:40,200 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 01:45:40,208 - -Dio.netty.allocator.type: pooled
+2019-08-24 01:45:40,208 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 01:45:40,208 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 01:47:06,780 - Using Log4J as the default logging framework
+2019-08-24 01:47:06,787 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 01:47:06,833 - java.nio.Buffer.address: available
+2019-08-24 01:47:06,835 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 01:47:06,835 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 01:47:06,836 - java.nio.Bits.unaligned: true
+2019-08-24 01:47:06,837 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 01:47:06,838 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 01:47:06,845 - Java version: 8
+2019-08-24 01:47:06,845 - -Dio.netty.noUnsafe: false
+2019-08-24 01:47:06,845 - sun.misc.Unsafe: available
+2019-08-24 01:47:06,846 - -Dio.netty.noJavassist: false
+2019-08-24 01:47:06,846 - Javassist: unavailable
+2019-08-24 01:47:06,847 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 01:47:06,847 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 01:47:06,848 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 01:47:06,851 - -Dio.netty.noPreferDirect: false
+2019-08-24 01:47:06,852 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 01:47:06,883 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 01:47:06,883 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 01:47:06,916 - -Dio.netty.processId: 21406 (auto-detected)
+2019-08-24 01:47:06,919 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 01:47:06,920 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 01:47:06,921 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 01:47:06,923 - -Dio.netty.initialSeedUniquifier: 0xe2df9c56294d445d
+2019-08-24 01:47:06,934 - -Dio.netty.leakDetection.level: simple
+2019-08-24 01:47:06,935 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 01:47:06,961 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 01:47:06,962 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 01:47:06,962 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 01:47:06,962 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 01:47:06,962 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 01:47:06,962 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 01:47:06,963 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 01:47:06,963 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 01:47:06,963 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 01:47:06,963 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 01:47:06,974 - -Dio.netty.allocator.type: pooled
+2019-08-24 01:47:06,974 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 01:47:06,974 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 01:47:19,726 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 01:47:19,728 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@489813e9
+2019-08-24 01:47:19,777 - 客户端加入连接：[id: 0x2a5e8eec, L:/127.0.0.1:6789 - R:/127.0.0.1:41912]
+2019-08-24 01:47:19,802 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 01:47:19,802 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 01:47:19,802 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 01:47:19,815 - ===================进入=======================
+2019-08-24 01:47:19,815 - http
+2019-08-24 01:47:19,815 - URL: /hello
+2019-08-24 01:47:19,815 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:19,821 - 返回数据{"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:41,613 - ===================进入=======================
+2019-08-24 01:47:41,614 - http
+2019-08-24 01:47:41,614 - URL: /Login
+2019-08-24 01:47:41,614 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:41,615 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:47:42,596 - 客户端加入连接：[id: 0x62f45dc8, L:/127.0.0.1:6789 - R:/127.0.0.1:41936]
+2019-08-24 01:47:42,597 - ===================进入=======================
+2019-08-24 01:47:42,597 - http
+2019-08-24 01:47:42,598 - URL: /Login
+2019-08-24 01:47:42,598 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:42,598 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:47:43,873 - 客户端加入连接：[id: 0x46d5b496, L:/127.0.0.1:6789 - R:/127.0.0.1:41940]
+2019-08-24 01:47:43,874 - ===================进入=======================
+2019-08-24 01:47:43,874 - http
+2019-08-24 01:47:43,875 - URL: /Login
+2019-08-24 01:47:43,875 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:43,875 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:47:44,122 - 客户端加入连接：[id: 0x95297e0d, L:/127.0.0.1:6789 - R:/127.0.0.1:41944]
+2019-08-24 01:47:44,123 - ===================进入=======================
+2019-08-24 01:47:44,123 - http
+2019-08-24 01:47:44,123 - URL: /Login
+2019-08-24 01:47:44,123 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:44,123 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:47:44,311 - 客户端加入连接：[id: 0xfb220f68, L:/127.0.0.1:6789 - R:/127.0.0.1:41948]
+2019-08-24 01:47:44,312 - ===================进入=======================
+2019-08-24 01:47:44,312 - http
+2019-08-24 01:47:44,312 - URL: /Login
+2019-08-24 01:47:44,312 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:47:44,312 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:59:07,696 - Using Log4J as the default logging framework
+2019-08-24 01:59:07,701 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 01:59:07,729 - java.nio.Buffer.address: available
+2019-08-24 01:59:07,730 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 01:59:07,730 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 01:59:07,731 - java.nio.Bits.unaligned: true
+2019-08-24 01:59:07,731 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 01:59:07,732 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 01:59:07,733 - Java version: 8
+2019-08-24 01:59:07,734 - -Dio.netty.noUnsafe: false
+2019-08-24 01:59:07,734 - sun.misc.Unsafe: available
+2019-08-24 01:59:07,734 - -Dio.netty.noJavassist: false
+2019-08-24 01:59:07,735 - Javassist: unavailable
+2019-08-24 01:59:07,736 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 01:59:07,736 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 01:59:07,736 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 01:59:07,737 - -Dio.netty.noPreferDirect: false
+2019-08-24 01:59:07,737 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 01:59:07,757 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 01:59:07,757 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 01:59:07,797 - -Dio.netty.processId: 22401 (auto-detected)
+2019-08-24 01:59:07,800 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 01:59:07,801 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 01:59:07,803 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 01:59:07,805 - -Dio.netty.initialSeedUniquifier: 0x5c92fb9ba8d4dc47
+2019-08-24 01:59:07,825 - -Dio.netty.leakDetection.level: simple
+2019-08-24 01:59:07,825 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 01:59:07,851 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 01:59:07,852 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 01:59:07,852 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 01:59:07,852 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 01:59:07,852 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 01:59:07,852 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 01:59:07,853 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 01:59:07,853 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 01:59:07,853 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 01:59:07,853 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 01:59:07,861 - -Dio.netty.allocator.type: pooled
+2019-08-24 01:59:07,861 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 01:59:07,862 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 01:59:25,982 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 01:59:25,984 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@489813e9
+2019-08-24 01:59:26,019 - 客户端加入连接：[id: 0x2d61279a, L:/127.0.0.1:6789 - R:/127.0.0.1:42232]
+2019-08-24 01:59:26,024 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 01:59:26,024 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 01:59:26,024 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 01:59:26,036 - ===================进入=======================
+2019-08-24 01:59:26,036 - http
+2019-08-24 01:59:26,037 - URL: /ABC
+2019-08-24 01:59:26,037 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:59:26,038 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:59:44,011 - 客户端加入连接：[id: 0x35181ec4, L:/127.0.0.1:6789 - R:/127.0.0.1:42246]
+2019-08-24 01:59:44,013 - ===================进入=======================
+2019-08-24 01:59:44,013 - http
+2019-08-24 01:59:44,013 - URL: /ABC
+2019-08-24 01:59:44,013 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 01:59:44,014 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 01:59:54,692 - Using Log4J as the default logging framework
+2019-08-24 01:59:54,703 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 01:59:54,789 - java.nio.Buffer.address: available
+2019-08-24 01:59:54,790 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 01:59:54,791 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 01:59:54,791 - java.nio.Bits.unaligned: true
+2019-08-24 01:59:54,792 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 01:59:54,793 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 01:59:54,795 - Java version: 8
+2019-08-24 01:59:54,795 - -Dio.netty.noUnsafe: false
+2019-08-24 01:59:54,795 - sun.misc.Unsafe: available
+2019-08-24 01:59:54,795 - -Dio.netty.noJavassist: false
+2019-08-24 01:59:54,796 - Javassist: unavailable
+2019-08-24 01:59:54,797 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 01:59:54,797 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 01:59:54,798 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 01:59:54,798 - -Dio.netty.noPreferDirect: false
+2019-08-24 01:59:54,798 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 01:59:54,891 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 01:59:54,891 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 01:59:54,950 - -Dio.netty.processId: 22567 (auto-detected)
+2019-08-24 01:59:54,953 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 01:59:54,954 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 01:59:54,955 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 01:59:54,959 - -Dio.netty.initialSeedUniquifier: 0x534218e6891a1ab2
+2019-08-24 01:59:54,976 - -Dio.netty.leakDetection.level: simple
+2019-08-24 01:59:54,977 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 01:59:55,018 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 01:59:55,018 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 01:59:55,018 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 01:59:55,018 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 01:59:55,019 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 01:59:55,019 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 01:59:55,019 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 01:59:55,019 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 01:59:55,019 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 01:59:55,019 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 01:59:55,030 - -Dio.netty.allocator.type: pooled
+2019-08-24 01:59:55,031 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 01:59:55,031 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:00:01,417 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:00:01,419 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76d7b5da
+2019-08-24 02:00:01,469 - 客户端加入连接：[id: 0xbc39ff2f, L:/127.0.0.1:6789 - R:/127.0.0.1:42262]
+2019-08-24 02:00:01,477 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:00:01,477 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:00:01,477 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:00:01,500 - ===================进入=======================
+2019-08-24 02:00:01,501 - http
+2019-08-24 02:00:01,501 - URL: /ABC
+2019-08-24 02:00:01,501 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:00:01,502 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:00:22,165 - 客户端断开连接：[id: 0xbc39ff2f, L:/127.0.0.1:6789 ! R:/127.0.0.1:42262]
+2019-08-24 02:00:23,417 - 客户端加入连接：[id: 0xebb9ae84, L:/127.0.0.1:6789 - R:/127.0.0.1:42286]
+2019-08-24 02:00:23,419 - ===================进入=======================
+2019-08-24 02:00:23,419 - http
+2019-08-24 02:00:23,419 - URL: /ABC
+2019-08-24 02:00:23,419 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:00:23,419 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:00:44,651 - Using Log4J as the default logging framework
+2019-08-24 02:00:44,663 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:00:44,719 - java.nio.Buffer.address: available
+2019-08-24 02:00:44,720 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:00:44,720 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:00:44,720 - java.nio.Bits.unaligned: true
+2019-08-24 02:00:44,721 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:00:44,722 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:00:44,724 - Java version: 8
+2019-08-24 02:00:44,724 - -Dio.netty.noUnsafe: false
+2019-08-24 02:00:44,724 - sun.misc.Unsafe: available
+2019-08-24 02:00:44,725 - -Dio.netty.noJavassist: false
+2019-08-24 02:00:44,726 - Javassist: unavailable
+2019-08-24 02:00:44,726 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:00:44,726 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:00:44,727 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:00:44,727 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:00:44,727 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:00:44,806 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:00:44,807 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:00:44,854 - -Dio.netty.processId: 22775 (auto-detected)
+2019-08-24 02:00:44,858 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:00:44,859 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:00:44,860 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:00:44,863 - -Dio.netty.initialSeedUniquifier: 0x49ac6c47bb7f48f8
+2019-08-24 02:00:44,877 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:00:44,877 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:00:44,906 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:00:44,906 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:00:44,907 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:00:44,919 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:00:44,919 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:00:44,919 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:00:49,632 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:00:49,634 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2117e3bf
+2019-08-24 02:00:49,679 - 客户端加入连接：[id: 0x5beace5e, L:/127.0.0.1:6789 - R:/127.0.0.1:42300]
+2019-08-24 02:00:49,686 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:00:49,686 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:00:49,686 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:00:49,708 - ===================进入=======================
+2019-08-24 02:00:49,708 - http
+2019-08-24 02:00:49,708 - URL: /ABC
+2019-08-24 02:00:49,709 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:00:49,710 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:01:06,881 - Using Log4J as the default logging framework
+2019-08-24 02:01:06,892 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:01:06,973 - java.nio.Buffer.address: available
+2019-08-24 02:01:06,976 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:01:06,980 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:01:06,981 - java.nio.Bits.unaligned: true
+2019-08-24 02:01:06,983 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:01:06,986 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:01:06,996 - Java version: 8
+2019-08-24 02:01:06,996 - -Dio.netty.noUnsafe: false
+2019-08-24 02:01:06,997 - sun.misc.Unsafe: available
+2019-08-24 02:01:06,997 - -Dio.netty.noJavassist: false
+2019-08-24 02:01:07,004 - Javassist: unavailable
+2019-08-24 02:01:07,004 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:01:07,004 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:01:07,008 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:01:07,008 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:01:07,009 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:01:07,132 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:01:07,132 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:01:07,223 - -Dio.netty.processId: 22852 (auto-detected)
+2019-08-24 02:01:07,230 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:01:07,236 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:01:07,238 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:01:07,239 - -Dio.netty.initialSeedUniquifier: 0xcc3e4f373b4b375f
+2019-08-24 02:01:07,257 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:01:07,257 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:01:07,291 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:01:07,291 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:01:07,291 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:01:07,291 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:01:07,291 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:01:07,292 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:01:07,292 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:01:07,292 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:01:07,292 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:01:07,292 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:01:07,307 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:01:07,307 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:01:07,307 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:01:15,451 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:01:15,454 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@445a45a2
+2019-08-24 02:01:15,497 - 客户端加入连接：[id: 0xe67207b0, L:/127.0.0.1:6789 - R:/127.0.0.1:42320]
+2019-08-24 02:01:15,504 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:01:15,505 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:01:15,505 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:01:15,528 - ===================进入=======================
+2019-08-24 02:01:15,528 - http
+2019-08-24 02:01:15,528 - URL: /ABC
+2019-08-24 02:01:15,528 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:01:45,379 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:02:08,242 - Using Log4J as the default logging framework
+2019-08-24 02:02:08,251 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:02:08,311 - java.nio.Buffer.address: available
+2019-08-24 02:02:08,312 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:02:08,312 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:02:08,314 - java.nio.Bits.unaligned: true
+2019-08-24 02:02:08,314 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:02:08,316 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:02:08,318 - Java version: 8
+2019-08-24 02:02:08,318 - -Dio.netty.noUnsafe: false
+2019-08-24 02:02:08,318 - sun.misc.Unsafe: available
+2019-08-24 02:02:08,319 - -Dio.netty.noJavassist: false
+2019-08-24 02:02:08,320 - Javassist: unavailable
+2019-08-24 02:02:08,320 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:02:08,321 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:02:08,326 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:02:08,327 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:02:08,327 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:02:08,411 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:02:08,411 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:02:08,458 - -Dio.netty.processId: 22958 (auto-detected)
+2019-08-24 02:02:08,461 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:02:08,462 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:02:08,463 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:02:08,465 - -Dio.netty.initialSeedUniquifier: 0x81059ea8bb2a91c4
+2019-08-24 02:02:08,480 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:02:08,480 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:02:08,508 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:02:08,519 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:02:08,519 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:02:08,519 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:02:14,109 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:02:14,111 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76d7b5da
+2019-08-24 02:02:14,157 - 客户端加入连接：[id: 0xaa3e8f48, L:/127.0.0.1:6789 - R:/127.0.0.1:42352]
+2019-08-24 02:02:14,164 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:02:14,164 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:02:14,164 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:02:14,186 - ===================进入=======================
+2019-08-24 02:02:14,187 - http
+2019-08-24 02:02:14,187 - URL: /Kk
+2019-08-24 02:02:14,187 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:02:25,944 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.ClassNotFoundException: Controller.Kk
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-24 02:02:32,777 - Using Log4J as the default logging framework
+2019-08-24 02:02:32,783 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:02:32,817 - java.nio.Buffer.address: available
+2019-08-24 02:02:32,818 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:02:32,819 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:02:32,819 - java.nio.Bits.unaligned: true
+2019-08-24 02:02:32,820 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:02:32,821 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:02:32,822 - Java version: 8
+2019-08-24 02:02:32,823 - -Dio.netty.noUnsafe: false
+2019-08-24 02:02:32,823 - sun.misc.Unsafe: available
+2019-08-24 02:02:32,823 - -Dio.netty.noJavassist: false
+2019-08-24 02:02:32,825 - Javassist: unavailable
+2019-08-24 02:02:32,825 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:02:32,825 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:02:32,826 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:02:32,826 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:02:32,826 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:02:32,851 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:02:32,852 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:02:32,902 - -Dio.netty.processId: 23040 (auto-detected)
+2019-08-24 02:02:32,906 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:02:32,907 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:02:32,909 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:02:32,910 - -Dio.netty.initialSeedUniquifier: 0xc10aeee2bc7f9948
+2019-08-24 02:02:32,923 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:02:32,923 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:02:32,949 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:02:32,950 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:02:32,950 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:02:32,950 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:02:32,959 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:02:32,960 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:02:32,960 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:02:36,703 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:02:36,705 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@c514637
+2019-08-24 02:02:36,739 - 客户端加入连接：[id: 0x72a36020, L:/127.0.0.1:6789 - R:/127.0.0.1:42378]
+2019-08-24 02:02:36,744 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:02:36,744 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:02:36,744 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:02:36,758 - ===================进入=======================
+2019-08-24 02:02:36,758 - http
+2019-08-24 02:02:36,758 - URL: /Kk
+2019-08-24 02:02:36,758 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:02:36,759 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.ClassNotFoundException: Controller.Kk
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-24 02:02:57,093 - Using Log4J as the default logging framework
+2019-08-24 02:02:57,105 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:02:57,189 - java.nio.Buffer.address: available
+2019-08-24 02:02:57,189 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:02:57,190 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:02:57,191 - java.nio.Bits.unaligned: true
+2019-08-24 02:02:57,194 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:02:57,197 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:02:57,199 - Java version: 8
+2019-08-24 02:02:57,200 - -Dio.netty.noUnsafe: false
+2019-08-24 02:02:57,200 - sun.misc.Unsafe: available
+2019-08-24 02:02:57,200 - -Dio.netty.noJavassist: false
+2019-08-24 02:02:57,202 - Javassist: unavailable
+2019-08-24 02:02:57,203 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:02:57,203 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:02:57,208 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:02:57,208 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:02:57,209 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:02:57,305 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:02:57,305 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:02:57,374 - -Dio.netty.processId: 23106 (auto-detected)
+2019-08-24 02:02:57,379 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:02:57,381 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:02:57,384 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:02:57,386 - -Dio.netty.initialSeedUniquifier: 0x2214cdb3fa62d3e2
+2019-08-24 02:02:57,409 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:02:57,410 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:02:57,450 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:02:57,450 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:02:57,450 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:02:57,451 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:02:57,451 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:02:57,451 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:02:57,451 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:02:57,451 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:02:57,452 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:02:57,452 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:02:57,467 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:02:57,467 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:02:57,467 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:03:01,165 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:03:01,167 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2293a09b
+2019-08-24 02:03:01,212 - 客户端加入连接：[id: 0xd5cbe4a6, L:/127.0.0.1:6789 - R:/127.0.0.1:42398]
+2019-08-24 02:03:01,221 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:03:01,221 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:03:01,221 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:03:01,240 - ===================进入=======================
+2019-08-24 02:03:01,240 - http
+2019-08-24 02:03:01,240 - URL: /Kk
+2019-08-24 02:03:01,240 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:03:10,888 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.ClassNotFoundException: Controller.Kk
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-24 02:03:31,348 - Using Log4J as the default logging framework
+2019-08-24 02:03:31,356 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:03:31,424 - java.nio.Buffer.address: available
+2019-08-24 02:03:31,425 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:03:31,425 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:03:31,427 - java.nio.Bits.unaligned: true
+2019-08-24 02:03:31,427 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:03:31,432 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:03:31,438 - Java version: 8
+2019-08-24 02:03:31,438 - -Dio.netty.noUnsafe: false
+2019-08-24 02:03:31,438 - sun.misc.Unsafe: available
+2019-08-24 02:03:31,439 - -Dio.netty.noJavassist: false
+2019-08-24 02:03:31,442 - Javassist: unavailable
+2019-08-24 02:03:31,442 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:03:31,443 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:03:31,444 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:03:31,444 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:03:31,446 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:03:31,520 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:03:31,521 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:03:31,578 - -Dio.netty.processId: 23250 (auto-detected)
+2019-08-24 02:03:31,582 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:03:31,584 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:03:31,587 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:03:31,590 - -Dio.netty.initialSeedUniquifier: 0x9dfa2e01a08f6baa
+2019-08-24 02:03:31,606 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:03:31,606 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:03:31,631 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:03:31,632 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:03:31,644 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:03:31,644 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:03:31,644 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:03:35,136 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:03:35,138 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7b007c87
+2019-08-24 02:03:35,188 - 客户端加入连接：[id: 0xf84770ef, L:/127.0.0.1:6789 - R:/127.0.0.1:42422]
+2019-08-24 02:03:35,195 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:03:35,195 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:03:35,195 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:03:35,222 - ===================进入=======================
+2019-08-24 02:03:35,222 - http
+2019-08-24 02:03:35,222 - URL: /Kk
+2019-08-24 02:03:35,222 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:03:54,707 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.ClassNotFoundException: Controller.Kk
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-24 02:04:13,512 - Using Log4J as the default logging framework
+2019-08-24 02:04:13,518 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:04:13,569 - java.nio.Buffer.address: available
+2019-08-24 02:04:13,569 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:04:13,572 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:04:13,572 - java.nio.Bits.unaligned: true
+2019-08-24 02:04:13,573 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:04:13,576 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:04:13,580 - Java version: 8
+2019-08-24 02:04:13,580 - -Dio.netty.noUnsafe: false
+2019-08-24 02:04:13,580 - sun.misc.Unsafe: available
+2019-08-24 02:04:13,581 - -Dio.netty.noJavassist: false
+2019-08-24 02:04:13,582 - Javassist: unavailable
+2019-08-24 02:04:13,585 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:04:13,586 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:04:13,587 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:04:13,587 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:04:13,588 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:04:13,682 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:04:13,682 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:04:13,729 - -Dio.netty.processId: 23335 (auto-detected)
+2019-08-24 02:04:13,733 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:04:13,734 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:04:13,735 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:04:13,738 - -Dio.netty.initialSeedUniquifier: 0x39426e21f26353cb
+2019-08-24 02:04:13,753 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:04:13,753 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:04:13,792 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:04:13,793 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:04:13,803 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:04:13,803 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:04:13,804 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:04:18,505 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:04:18,507 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2293a09b
+2019-08-24 02:04:18,554 - 客户端加入连接：[id: 0xc9058b47, L:/127.0.0.1:6789 - R:/127.0.0.1:42488]
+2019-08-24 02:04:18,561 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:04:18,562 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:04:18,562 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:04:18,586 - ===================进入=======================
+2019-08-24 02:04:18,586 - http
+2019-08-24 02:04:18,586 - URL: /Kk
+2019-08-24 02:04:18,586 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:04:42,877 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.ClassNotFoundException: Controller.Kk
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-24 02:04:42,877 - 客户端加入连接：[id: 0x949ad83c, L:/127.0.0.1:6789 - R:/127.0.0.1:42504]
+2019-08-24 02:04:46,470 - ===================进入=======================
+2019-08-24 02:04:46,471 - http
+2019-08-24 02:04:46,471 - URL: /Login
+2019-08-24 02:04:46,471 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:04:46,472 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:04:53,224 - Using Log4J as the default logging framework
+2019-08-24 02:04:53,232 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:04:53,298 - java.nio.Buffer.address: available
+2019-08-24 02:04:53,299 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:04:53,300 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:04:53,301 - java.nio.Bits.unaligned: true
+2019-08-24 02:04:53,302 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:04:53,304 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:04:53,308 - Java version: 8
+2019-08-24 02:04:53,308 - -Dio.netty.noUnsafe: false
+2019-08-24 02:04:53,309 - sun.misc.Unsafe: available
+2019-08-24 02:04:53,309 - -Dio.netty.noJavassist: false
+2019-08-24 02:04:53,311 - Javassist: unavailable
+2019-08-24 02:04:53,311 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:04:53,311 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:04:53,312 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:04:53,313 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:04:53,313 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:04:53,390 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:04:53,391 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:04:53,444 - -Dio.netty.processId: 23544 (auto-detected)
+2019-08-24 02:04:53,448 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:04:53,449 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:04:53,450 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:04:53,451 - -Dio.netty.initialSeedUniquifier: 0x92403ab95033bf14
+2019-08-24 02:04:53,467 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:04:53,467 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:04:53,499 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:04:53,499 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:04:53,499 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:04:53,499 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:04:53,499 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:04:53,500 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:04:53,500 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:04:53,500 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:04:53,500 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:04:53,500 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:04:53,512 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:04:53,512 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:04:53,512 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:05:00,353 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:05:00,355 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@50b16393
+2019-08-24 02:05:00,403 - 客户端加入连接：[id: 0x13bf64af, L:/127.0.0.1:6789 - R:/127.0.0.1:42524]
+2019-08-24 02:05:00,410 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:05:00,410 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:05:00,410 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:05:00,429 - ===================进入=======================
+2019-08-24 02:05:00,429 - http
+2019-08-24 02:05:00,429 - URL: /Login
+2019-08-24 02:05:00,430 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:05:58,396 - ===================进入=======================
+2019-08-24 02:05:58,396 - http
+2019-08-24 02:05:58,397 - URL: /Login
+2019-08-24 02:05:58,397 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:05:58,398 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:10:24,086 - Using Log4J as the default logging framework
+2019-08-24 02:10:24,098 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:10:24,161 - java.nio.Buffer.address: available
+2019-08-24 02:10:24,162 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:10:24,162 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:10:24,163 - java.nio.Bits.unaligned: true
+2019-08-24 02:10:24,163 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:10:24,165 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:10:24,166 - Java version: 8
+2019-08-24 02:10:24,166 - -Dio.netty.noUnsafe: false
+2019-08-24 02:10:24,167 - sun.misc.Unsafe: available
+2019-08-24 02:10:24,168 - -Dio.netty.noJavassist: false
+2019-08-24 02:10:24,171 - Javassist: unavailable
+2019-08-24 02:10:24,172 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:10:24,172 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:10:24,173 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:10:24,173 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:10:24,173 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:10:24,244 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:10:24,245 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:10:24,304 - -Dio.netty.processId: 24464 (auto-detected)
+2019-08-24 02:10:24,308 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:10:24,309 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:10:24,310 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:10:24,313 - -Dio.netty.initialSeedUniquifier: 0xd7830e4679c937b2
+2019-08-24 02:10:24,330 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:10:24,330 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:10:24,358 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:10:24,358 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:10:24,358 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:10:24,358 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:10:24,358 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:10:24,358 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:10:24,359 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:10:24,359 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:10:24,359 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:10:24,359 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:10:24,373 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:10:24,375 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:10:24,376 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:10:32,781 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:10:32,783 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2293a09b
+2019-08-24 02:10:32,829 - 客户端加入连接：[id: 0x5c3f7b22, L:/127.0.0.1:6789 - R:/127.0.0.1:42716]
+2019-08-24 02:10:32,836 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:10:32,837 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:10:32,837 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:10:32,861 - ===================进入=======================
+2019-08-24 02:10:32,861 - http
+2019-08-24 02:10:32,862 - URL: /Login
+2019-08-24 02:10:32,862 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:10:43,658 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:10:54,572 - Using Log4J as the default logging framework
+2019-08-24 02:10:54,580 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:10:54,636 - java.nio.Buffer.address: available
+2019-08-24 02:10:54,637 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:10:54,637 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:10:54,638 - java.nio.Bits.unaligned: true
+2019-08-24 02:10:54,638 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:10:54,640 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:10:54,641 - Java version: 8
+2019-08-24 02:10:54,641 - -Dio.netty.noUnsafe: false
+2019-08-24 02:10:54,641 - sun.misc.Unsafe: available
+2019-08-24 02:10:54,642 - -Dio.netty.noJavassist: false
+2019-08-24 02:10:54,643 - Javassist: unavailable
+2019-08-24 02:10:54,643 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:10:54,643 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:10:54,644 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:10:54,644 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:10:54,645 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:10:54,678 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:10:54,678 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:10:54,737 - -Dio.netty.processId: 24651 (auto-detected)
+2019-08-24 02:10:54,740 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:10:54,741 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:10:54,742 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:10:54,744 - -Dio.netty.initialSeedUniquifier: 0x095f3262689011d4
+2019-08-24 02:10:54,759 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:10:54,759 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:10:54,785 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:10:54,785 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:10:54,786 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:10:54,787 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:10:54,800 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:10:54,804 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:10:54,804 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:11:09,255 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:11:09,259 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6357937b
+2019-08-24 02:11:09,294 - 客户端加入连接：[id: 0xdc59ce45, L:/127.0.0.1:6789 - R:/127.0.0.1:42768]
+2019-08-24 02:11:09,301 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:11:09,301 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:11:09,301 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:11:09,313 - ===================进入=======================
+2019-08-24 02:11:09,314 - http
+2019-08-24 02:11:09,314 - URL: /Login
+2019-08-24 02:11:09,314 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:11:09,315 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.Login
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.Login.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:23:58,670 - 客户端断开连接：[id: 0xdc59ce45, L:/127.0.0.1:6789 ! R:/127.0.0.1:42768]
+2019-08-24 02:27:57,497 - Using Log4J as the default logging framework
+2019-08-24 02:27:57,505 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:27:57,558 - java.nio.Buffer.address: available
+2019-08-24 02:27:57,559 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:27:57,559 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:27:57,561 - java.nio.Bits.unaligned: true
+2019-08-24 02:27:57,561 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:27:57,562 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:27:57,565 - Java version: 8
+2019-08-24 02:27:57,567 - -Dio.netty.noUnsafe: false
+2019-08-24 02:27:57,567 - sun.misc.Unsafe: available
+2019-08-24 02:27:57,568 - -Dio.netty.noJavassist: false
+2019-08-24 02:27:57,569 - Javassist: unavailable
+2019-08-24 02:27:57,569 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:27:57,570 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:27:57,572 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:27:57,572 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:27:57,574 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:27:57,617 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:27:57,618 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:27:57,692 - -Dio.netty.processId: 25928 (auto-detected)
+2019-08-24 02:27:57,694 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:27:57,695 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:27:57,696 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:27:57,698 - -Dio.netty.initialSeedUniquifier: 0x77a280e28abcc677
+2019-08-24 02:27:57,712 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:27:57,712 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:27:57,741 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:27:57,742 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:27:57,742 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:27:57,742 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:27:57,742 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:27:57,742 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:27:57,743 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:27:57,743 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:27:57,743 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:27:57,743 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:27:57,755 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:27:57,755 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:27:57,755 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:28:24,200 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:28:24,202 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@70158870
+2019-08-24 02:28:24,240 - 客户端加入连接：[id: 0x42c68e05, L:/127.0.0.1:6789 - R:/127.0.0.1:43786]
+2019-08-24 02:28:24,245 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:28:24,245 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:28:24,245 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:28:24,258 - ===================进入=======================
+2019-08-24 02:28:24,259 - http
+2019-08-24 02:28:24,259 - URL: /Login
+2019-08-24 02:28:24,259 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:28:24,371 - 返回数据t
+2019-08-24 02:28:54,104 - 客户端断开连接：[id: 0x42c68e05, L:/127.0.0.1:6789 ! R:/127.0.0.1:43786]
+2019-08-24 02:29:02,731 - 客户端加入连接：[id: 0x1170dd4a, L:/127.0.0.1:6789 - R:/127.0.0.1:43832]
+2019-08-24 02:29:02,732 - ===================进入=======================
+2019-08-24 02:29:02,732 - http
+2019-08-24 02:29:02,733 - URL: /Kk
+2019-08-24 02:29:02,733 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:29:02,734 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.ClassNotFoundException: Controller.Kk
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-24 02:29:46,189 - 客户端加入连接：[id: 0x0a0397e6, L:/127.0.0.1:6789 - R:/127.0.0.1:43864]
+2019-08-24 02:29:46,190 - ===================进入=======================
+2019-08-24 02:29:46,191 - http
+2019-08-24 02:29:46,191 - URL: /ABC
+2019-08-24 02:29:46,193 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:29:46,194 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.InstantiationException: Controller.ABC
+	at java.lang.Class.newInstance(Class.java:427)
+	at server.ServerHandler.handleHttpRequest(ServerHandler.java:90)
+	at server.ServerHandler.channelRead(ServerHandler.java:49)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodException: Controller.ABC.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.newInstance(Class.java:412)
+	... 31 more
+2019-08-24 02:31:06,348 - Using Log4J as the default logging framework
+2019-08-24 02:31:06,355 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:31:06,400 - java.nio.Buffer.address: available
+2019-08-24 02:31:06,400 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:31:06,401 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:31:06,401 - java.nio.Bits.unaligned: true
+2019-08-24 02:31:06,401 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:31:06,407 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:31:06,409 - Java version: 8
+2019-08-24 02:31:06,409 - -Dio.netty.noUnsafe: false
+2019-08-24 02:31:06,409 - sun.misc.Unsafe: available
+2019-08-24 02:31:06,409 - -Dio.netty.noJavassist: false
+2019-08-24 02:31:06,413 - Javassist: unavailable
+2019-08-24 02:31:06,413 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:31:06,414 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:31:06,415 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:31:06,416 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:31:06,416 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:31:06,488 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:31:06,489 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:31:06,542 - -Dio.netty.processId: 26593 (auto-detected)
+2019-08-24 02:31:06,547 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:31:06,549 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:31:06,552 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:31:06,558 - -Dio.netty.initialSeedUniquifier: 0x5a6ac894b46d80dd
+2019-08-24 02:31:06,571 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:31:06,571 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:31:06,600 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:31:06,600 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:31:06,600 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:31:06,600 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:31:06,601 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:31:06,601 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:31:06,601 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:31:06,601 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:31:06,601 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:31:06,601 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:31:06,612 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:31:06,612 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:31:06,612 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:31:24,058 - Using Log4J as the default logging framework
+2019-08-24 02:31:24,064 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 02:31:24,109 - java.nio.Buffer.address: available
+2019-08-24 02:31:24,110 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 02:31:24,110 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 02:31:24,111 - java.nio.Bits.unaligned: true
+2019-08-24 02:31:24,112 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 02:31:24,115 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 02:31:24,121 - Java version: 8
+2019-08-24 02:31:24,121 - -Dio.netty.noUnsafe: false
+2019-08-24 02:31:24,121 - sun.misc.Unsafe: available
+2019-08-24 02:31:24,121 - -Dio.netty.noJavassist: false
+2019-08-24 02:31:24,122 - Javassist: unavailable
+2019-08-24 02:31:24,123 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 02:31:24,123 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 02:31:24,124 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 02:31:24,124 - -Dio.netty.noPreferDirect: false
+2019-08-24 02:31:24,124 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 02:31:24,154 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 02:31:24,155 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 02:31:24,208 - -Dio.netty.processId: 26656 (auto-detected)
+2019-08-24 02:31:24,211 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 02:31:24,211 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 02:31:24,212 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 02:31:24,214 - -Dio.netty.initialSeedUniquifier: 0xab426f6191847789
+2019-08-24 02:31:24,226 - -Dio.netty.leakDetection.level: simple
+2019-08-24 02:31:24,226 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 02:31:24,249 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 02:31:24,249 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 02:31:24,249 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 02:31:24,249 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 02:31:24,249 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 02:31:24,249 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 02:31:24,250 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 02:31:24,250 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 02:31:24,250 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 02:31:24,250 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 02:31:24,263 - -Dio.netty.allocator.type: pooled
+2019-08-24 02:31:24,263 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 02:31:24,263 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 02:31:30,766 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 02:31:30,768 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6357937b
+2019-08-24 02:31:30,808 - 客户端加入连接：[id: 0x0c1e9f93, L:/127.0.0.1:6789 - R:/127.0.0.1:44070]
+2019-08-24 02:31:30,813 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 02:31:30,813 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 02:31:30,813 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 02:31:30,827 - ===================进入=======================
+2019-08-24 02:31:30,827 - http
+2019-08-24 02:31:30,827 - URL: /ABC
+2019-08-24 02:31:30,828 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:31:30,889 - 返回数据t
+2019-08-24 02:31:39,586 - ===================进入=======================
+2019-08-24 02:31:39,587 - http
+2019-08-24 02:31:39,587 - URL: /ABC
+2019-08-24 02:31:39,587 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 02:31:39,588 - 返回数据t
+2019-08-24 09:44:01,990 - Using Log4J as the default logging framework
+2019-08-24 09:44:02,023 - -Dio.netty.eventLoopThreads: 8
+2019-08-24 09:44:02,129 - java.nio.Buffer.address: available
+2019-08-24 09:44:02,130 - sun.misc.Unsafe.theUnsafe: available
+2019-08-24 09:44:02,130 - sun.misc.Unsafe.copyMemory: available
+2019-08-24 09:44:02,131 - java.nio.Bits.unaligned: true
+2019-08-24 09:44:02,131 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-24 09:44:02,132 - java.nio.ByteBuffer.cleaner(): available
+2019-08-24 09:44:02,142 - Java version: 8
+2019-08-24 09:44:02,142 - -Dio.netty.noUnsafe: false
+2019-08-24 09:44:02,142 - sun.misc.Unsafe: available
+2019-08-24 09:44:02,142 - -Dio.netty.noJavassist: false
+2019-08-24 09:44:02,143 - Javassist: unavailable
+2019-08-24 09:44:02,144 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-24 09:44:02,144 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-24 09:44:02,144 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-24 09:44:02,145 - -Dio.netty.noPreferDirect: false
+2019-08-24 09:44:02,149 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-24 09:44:02,215 - -Dio.netty.noKeySetOptimization: false
+2019-08-24 09:44:02,216 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-24 09:44:02,363 - -Dio.netty.processId: 10144 (auto-detected)
+2019-08-24 09:44:02,371 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-24 09:44:02,373 - /proc/sys/net/core/somaxconn: 512
+2019-08-24 09:44:02,377 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-24 09:44:02,379 - -Dio.netty.initialSeedUniquifier: 0xb23f71b8c0257322
+2019-08-24 09:44:02,438 - -Dio.netty.leakDetection.level: simple
+2019-08-24 09:44:02,438 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-24 09:44:02,516 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.pageSize: 8192
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.maxOrder: 11
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-24 09:44:02,517 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-24 09:44:02,518 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-24 09:44:02,535 - -Dio.netty.allocator.type: pooled
+2019-08-24 09:44:02,541 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-24 09:44:02,541 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-24 09:44:22,723 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-24 09:44:22,725 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@bb944a7
+2019-08-24 09:44:22,877 - 客户端加入连接：[id: 0x5854b35c, L:/127.0.0.1:6789 - R:/127.0.0.1:36950]
+2019-08-24 09:44:22,920 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-24 09:44:22,920 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-24 09:44:22,920 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-24 09:44:23,014 - ===================进入=======================
+2019-08-24 09:44:23,015 - http
+2019-08-24 09:44:23,015 - URL: /Login
+2019-08-24 09:44:23,015 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-24 09:44:23,467 - 返回数据t
