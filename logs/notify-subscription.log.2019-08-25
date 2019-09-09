@@ -1,0 +1,697 @@
+2019-08-25 11:40:20,096 - Using Log4J as the default logging framework
+2019-08-25 11:40:20,128 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 11:40:20,203 - java.nio.Buffer.address: available
+2019-08-25 11:40:20,204 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 11:40:20,205 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 11:40:20,206 - java.nio.Bits.unaligned: true
+2019-08-25 11:40:20,207 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 11:40:20,209 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 11:40:20,212 - Java version: 8
+2019-08-25 11:40:20,213 - -Dio.netty.noUnsafe: false
+2019-08-25 11:40:20,214 - sun.misc.Unsafe: available
+2019-08-25 11:40:20,214 - -Dio.netty.noJavassist: false
+2019-08-25 11:40:20,215 - Javassist: unavailable
+2019-08-25 11:40:20,216 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 11:40:20,216 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 11:40:20,217 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 11:40:20,218 - -Dio.netty.noPreferDirect: false
+2019-08-25 11:40:20,219 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 11:40:20,259 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 11:40:20,260 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 11:40:20,410 - -Dio.netty.processId: 12800 (auto-detected)
+2019-08-25 11:40:20,414 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 11:40:20,415 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 11:40:20,417 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 11:40:20,419 - -Dio.netty.initialSeedUniquifier: 0x8c177341daa22b05
+2019-08-25 11:40:20,455 - -Dio.netty.leakDetection.level: simple
+2019-08-25 11:40:20,455 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 11:40:20,532 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 11:40:20,532 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 11:40:20,533 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 11:40:20,533 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 11:40:20,534 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 11:40:20,534 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 11:40:20,534 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 11:40:20,534 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 11:40:20,535 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 11:40:20,535 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 11:40:20,567 - -Dio.netty.allocator.type: pooled
+2019-08-25 11:40:20,568 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 11:40:20,568 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 11:40:34,193 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 11:40:34,195 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@489813e9
+2019-08-25 11:40:34,271 - 客户端加入连接：[id: 0xba4fd002, L:/127.0.0.1:6789 - R:/127.0.0.1:54878]
+2019-08-25 11:40:34,312 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 11:40:34,312 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 11:40:34,312 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 11:40:34,327 - ===================进入=======================
+2019-08-25 11:40:34,327 - http
+2019-08-25 11:40:34,328 - URL: /Login
+2019-08-25 11:40:34,328 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 11:40:34,481 - 返回数据t
+2019-08-25 11:40:40,069 - ===================进入=======================
+2019-08-25 11:40:40,070 - http
+2019-08-25 11:40:40,070 - URL: /Login
+2019-08-25 11:40:40,070 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 11:40:40,071 - 返回数据t
+2019-08-25 11:41:31,246 - ===================进入=======================
+2019-08-25 11:41:31,246 - http
+2019-08-25 11:41:31,246 - URL: /Login
+2019-08-25 11:41:31,246 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 11:41:31,247 - 返回数据t
+2019-08-25 11:43:14,081 - Using Log4J as the default logging framework
+2019-08-25 11:43:14,103 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 11:43:14,247 - java.nio.Buffer.address: available
+2019-08-25 11:43:14,248 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 11:43:14,248 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 11:43:14,251 - java.nio.Bits.unaligned: true
+2019-08-25 11:43:14,255 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 11:43:14,257 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 11:43:14,263 - Java version: 8
+2019-08-25 11:43:14,263 - -Dio.netty.noUnsafe: false
+2019-08-25 11:43:14,263 - sun.misc.Unsafe: available
+2019-08-25 11:43:14,264 - -Dio.netty.noJavassist: false
+2019-08-25 11:43:14,266 - Javassist: unavailable
+2019-08-25 11:43:14,266 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 11:43:14,266 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 11:43:14,267 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 11:43:14,268 - -Dio.netty.noPreferDirect: false
+2019-08-25 11:43:14,268 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 11:43:14,396 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 11:43:14,398 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 11:43:14,509 - -Dio.netty.processId: 13141 (auto-detected)
+2019-08-25 11:43:14,516 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 11:43:14,518 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 11:43:14,521 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 11:43:14,526 - -Dio.netty.initialSeedUniquifier: 0x7923cbba2bcfc637
+2019-08-25 11:43:14,550 - -Dio.netty.leakDetection.level: simple
+2019-08-25 11:43:14,556 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 11:43:14,643 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 11:43:14,643 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 11:43:14,644 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 11:43:14,644 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 11:43:14,644 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 11:43:14,645 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 11:43:14,645 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 11:43:14,645 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 11:43:14,645 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 11:43:14,645 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 11:43:14,676 - -Dio.netty.allocator.type: pooled
+2019-08-25 11:43:14,682 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 11:43:14,687 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 11:43:31,388 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 11:43:31,391 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76d7b5da
+2019-08-25 11:43:31,495 - 客户端加入连接：[id: 0xda395aa6, L:/127.0.0.1:6789 - R:/127.0.0.1:55098]
+2019-08-25 11:43:31,502 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 11:43:31,502 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 11:43:31,503 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 11:43:31,530 - ===================进入=======================
+2019-08-25 11:43:31,530 - http
+2019-08-25 11:43:50,203 - URL: /Login
+2019-08-25 11:43:50,204 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 11:43:54,629 - Using Log4J as the default logging framework
+2019-08-25 11:43:54,639 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 11:43:54,701 - java.nio.Buffer.address: available
+2019-08-25 11:43:54,702 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 11:43:54,702 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 11:43:54,703 - java.nio.Bits.unaligned: true
+2019-08-25 11:43:54,703 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 11:43:54,705 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 11:43:54,706 - Java version: 8
+2019-08-25 11:43:54,707 - -Dio.netty.noUnsafe: false
+2019-08-25 11:43:54,707 - sun.misc.Unsafe: available
+2019-08-25 11:43:54,707 - -Dio.netty.noJavassist: false
+2019-08-25 11:43:54,708 - Javassist: unavailable
+2019-08-25 11:43:54,708 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 11:43:54,709 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 11:43:54,709 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 11:43:54,710 - -Dio.netty.noPreferDirect: false
+2019-08-25 11:43:54,710 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 11:43:54,781 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 11:43:54,782 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 11:43:54,828 - -Dio.netty.processId: 13257 (auto-detected)
+2019-08-25 11:43:54,832 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 11:43:54,833 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 11:43:54,834 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 11:43:54,836 - -Dio.netty.initialSeedUniquifier: 0xd440044a670a6fb9
+2019-08-25 11:43:54,856 - -Dio.netty.leakDetection.level: simple
+2019-08-25 11:43:54,856 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 11:43:54,901 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 11:43:54,901 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 11:43:54,901 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 11:43:54,902 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 11:43:54,915 - -Dio.netty.allocator.type: pooled
+2019-08-25 11:43:54,915 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 11:43:54,915 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 11:44:11,380 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 11:44:11,382 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1473c8f8
+2019-08-25 11:44:11,430 - 客户端加入连接：[id: 0x51f40afa, L:/127.0.0.1:6789 - R:/127.0.0.1:55114]
+2019-08-25 11:44:11,437 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 11:44:11,437 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 11:44:11,437 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 11:44:17,135 - ===================进入=======================
+2019-08-25 11:44:43,111 - http
+2019-08-25 11:50:33,962 - URL: /Login
+2019-08-25 11:50:46,356 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 11:55:40,331 - 返回数据t
+2019-08-25 13:23:48,597 - Using Log4J as the default logging framework
+2019-08-25 13:23:48,605 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 13:23:48,667 - java.nio.Buffer.address: available
+2019-08-25 13:23:48,667 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 13:23:48,668 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 13:23:48,668 - java.nio.Bits.unaligned: true
+2019-08-25 13:23:48,668 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 13:23:48,671 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 13:23:48,673 - Java version: 8
+2019-08-25 13:23:48,673 - -Dio.netty.noUnsafe: false
+2019-08-25 13:23:48,674 - sun.misc.Unsafe: available
+2019-08-25 13:23:48,674 - -Dio.netty.noJavassist: false
+2019-08-25 13:23:48,676 - Javassist: unavailable
+2019-08-25 13:23:48,676 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 13:23:48,676 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 13:23:48,677 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 13:23:48,677 - -Dio.netty.noPreferDirect: false
+2019-08-25 13:23:48,678 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 13:23:48,765 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 13:23:48,767 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 13:23:48,824 - -Dio.netty.processId: 17274 (auto-detected)
+2019-08-25 13:23:48,828 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 13:23:48,829 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 13:23:48,831 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 13:23:48,832 - -Dio.netty.initialSeedUniquifier: 0x638499343902c1ff
+2019-08-25 13:23:48,848 - -Dio.netty.leakDetection.level: simple
+2019-08-25 13:23:48,848 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 13:23:48,880 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 13:23:48,880 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 13:23:48,881 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 13:23:48,894 - -Dio.netty.allocator.type: pooled
+2019-08-25 13:23:48,894 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 13:23:48,895 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 13:24:08,020 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 13:24:08,022 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2293a09b
+2019-08-25 13:24:08,070 - 客户端加入连接：[id: 0x3385a5e4, L:/127.0.0.1:6789 - R:/127.0.0.1:56912]
+2019-08-25 13:24:08,077 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 13:24:08,078 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 13:24:08,078 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 13:24:53,107 - ===================进入=======================
+2019-08-25 13:26:46,398 - http
+2019-08-25 13:28:11,092 - URL: /Login
+2019-08-25 13:28:11,094 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 13:28:20,297 - 返回数据t
+2019-08-25 13:28:34,053 - ===================进入=======================
+2019-08-25 13:28:34,053 - http
+2019-08-25 13:28:34,053 - URL: /Login
+2019-08-25 13:28:34,053 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 13:28:34,054 - 返回数据t
+2019-08-25 13:28:37,697 - Using Log4J as the default logging framework
+2019-08-25 13:28:37,706 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 13:28:37,745 - java.nio.Buffer.address: available
+2019-08-25 13:28:37,746 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 13:28:37,746 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 13:28:37,747 - java.nio.Bits.unaligned: true
+2019-08-25 13:28:37,747 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 13:28:37,748 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 13:28:37,750 - Java version: 8
+2019-08-25 13:28:37,751 - -Dio.netty.noUnsafe: false
+2019-08-25 13:28:37,751 - sun.misc.Unsafe: available
+2019-08-25 13:28:37,751 - -Dio.netty.noJavassist: false
+2019-08-25 13:28:37,752 - Javassist: unavailable
+2019-08-25 13:28:37,752 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 13:28:37,753 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 13:28:37,753 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 13:28:37,755 - -Dio.netty.noPreferDirect: false
+2019-08-25 13:28:37,755 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 13:28:37,848 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 13:28:37,848 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 13:28:37,947 - -Dio.netty.processId: 17638 (auto-detected)
+2019-08-25 13:28:37,953 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 13:28:37,963 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 13:28:37,966 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 13:28:37,973 - -Dio.netty.initialSeedUniquifier: 0xc491e60822482474
+2019-08-25 13:28:38,018 - -Dio.netty.leakDetection.level: simple
+2019-08-25 13:28:38,019 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 13:28:38,071 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 13:28:38,072 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 13:28:38,072 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 13:28:38,072 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 13:28:38,073 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 13:28:38,073 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 13:28:38,073 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 13:28:38,073 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 13:28:38,073 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 13:28:38,074 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 13:28:38,094 - -Dio.netty.allocator.type: pooled
+2019-08-25 13:28:38,096 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 13:28:38,097 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 13:29:04,403 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 13:29:04,405 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76d7b5da
+2019-08-25 13:29:04,453 - 客户端加入连接：[id: 0x0d99b3fe, L:/127.0.0.1:6789 - R:/127.0.0.1:57006]
+2019-08-25 13:29:04,461 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 13:29:04,461 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 13:29:04,461 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 13:29:10,991 - ===================进入=======================
+2019-08-25 13:29:12,004 - http
+2019-08-25 13:29:30,753 - URL: /Login
+2019-08-25 13:29:54,107 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 13:35:39,215 - 返回数据t
+2019-08-25 13:35:47,978 - Using Log4J as the default logging framework
+2019-08-25 13:35:47,989 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 13:35:48,064 - java.nio.Buffer.address: available
+2019-08-25 13:35:48,067 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 13:35:48,071 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 13:35:48,072 - java.nio.Bits.unaligned: true
+2019-08-25 13:35:48,073 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 13:35:48,075 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 13:35:48,077 - Java version: 8
+2019-08-25 13:35:48,077 - -Dio.netty.noUnsafe: false
+2019-08-25 13:35:48,077 - sun.misc.Unsafe: available
+2019-08-25 13:35:48,078 - -Dio.netty.noJavassist: false
+2019-08-25 13:35:48,079 - Javassist: unavailable
+2019-08-25 13:35:48,080 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 13:35:48,080 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 13:35:48,081 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 13:35:48,081 - -Dio.netty.noPreferDirect: false
+2019-08-25 13:35:48,082 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 13:35:48,172 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 13:35:48,173 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 13:35:48,235 - -Dio.netty.processId: 18081 (auto-detected)
+2019-08-25 13:35:48,239 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 13:35:48,240 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 13:35:48,242 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 13:35:48,243 - -Dio.netty.initialSeedUniquifier: 0x673fdabbe19e0421
+2019-08-25 13:35:48,259 - -Dio.netty.leakDetection.level: simple
+2019-08-25 13:35:48,259 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 13:35:48,286 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 13:35:48,286 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 13:35:48,286 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 13:35:48,287 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 13:35:48,299 - -Dio.netty.allocator.type: pooled
+2019-08-25 13:35:48,299 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 13:35:48,299 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 13:35:57,380 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 13:35:57,382 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76d7b5da
+2019-08-25 13:35:57,426 - 客户端加入连接：[id: 0x6729e511, L:/127.0.0.1:6789 - R:/127.0.0.1:57124]
+2019-08-25 13:35:57,433 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 13:35:57,433 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 13:35:57,433 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 13:36:01,836 - ===================进入=======================
+2019-08-25 13:36:02,233 - http
+2019-08-25 13:36:03,876 - URL: /Login
+2019-08-25 13:36:05,216 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 13:36:34,394 - 返回数据abcccc
+2019-08-25 15:14:48,123 - Using Log4J as the default logging framework
+2019-08-25 15:14:48,130 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:14:48,160 - java.nio.Buffer.address: available
+2019-08-25 15:14:48,161 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:14:48,161 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:14:48,162 - java.nio.Bits.unaligned: true
+2019-08-25 15:14:48,162 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:14:48,163 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:14:48,165 - Java version: 8
+2019-08-25 15:14:48,165 - -Dio.netty.noUnsafe: false
+2019-08-25 15:14:48,165 - sun.misc.Unsafe: available
+2019-08-25 15:14:48,165 - -Dio.netty.noJavassist: false
+2019-08-25 15:14:48,166 - Javassist: unavailable
+2019-08-25 15:14:48,167 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:14:48,167 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:14:48,168 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:14:48,168 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:14:48,168 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:14:48,188 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:14:48,189 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:14:48,251 - -Dio.netty.processId: 22117 (auto-detected)
+2019-08-25 15:14:48,254 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:14:48,255 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:14:48,257 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:14:48,258 - -Dio.netty.initialSeedUniquifier: 0x98475b3bf6f470f2
+2019-08-25 15:14:48,270 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:14:48,271 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:14:48,299 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:14:48,299 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:14:48,299 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:14:48,299 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:14:48,300 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:14:48,300 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:14:48,300 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:14:48,300 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:14:48,300 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:14:48,300 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:14:48,308 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:14:48,309 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:14:48,309 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:15:19,464 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 15:15:19,467 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@56bebe86
+2019-08-25 15:15:19,503 - 客户端加入连接：[id: 0x9be4b78b, L:/127.0.0.1:6789 - R:/127.0.0.1:59312]
+2019-08-25 15:15:19,508 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 15:15:19,508 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 15:15:19,508 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 15:15:19,520 - ===================进入=======================
+2019-08-25 15:15:19,521 - http
+2019-08-25 15:15:19,521 - URL: /Login
+2019-08-25 15:15:19,521 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 15:15:19,585 - 返回数据abcccc
+2019-08-25 15:16:11,706 - ===================进入=======================
+2019-08-25 15:16:11,706 - http
+2019-08-25 15:16:11,706 - URL: /Login
+2019-08-25 15:16:11,706 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 15:16:11,707 - 返回数据abcccc
+2019-08-25 15:16:35,575 - ===================进入=======================
+2019-08-25 15:16:35,576 - http
+2019-08-25 15:16:35,576 - URL: /ABC
+2019-08-25 15:16:35,576 - data {"uid":"xxx","uname":"xxx","pwd":"xxxx"}
+2019-08-25 15:16:35,601 - 返回数据t
+2019-08-25 15:19:26,361 - Using Log4J as the default logging framework
+2019-08-25 15:19:26,367 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:19:26,407 - java.nio.Buffer.address: available
+2019-08-25 15:19:26,407 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:19:26,408 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:19:26,410 - java.nio.Bits.unaligned: true
+2019-08-25 15:19:26,410 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:19:26,411 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:19:26,414 - Java version: 8
+2019-08-25 15:19:26,414 - -Dio.netty.noUnsafe: false
+2019-08-25 15:19:26,414 - sun.misc.Unsafe: available
+2019-08-25 15:19:26,415 - -Dio.netty.noJavassist: false
+2019-08-25 15:19:26,416 - Javassist: unavailable
+2019-08-25 15:19:26,416 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:19:26,416 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:19:26,417 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:19:26,417 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:19:26,418 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:19:26,448 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:19:26,449 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:19:26,509 - -Dio.netty.processId: 22675 (auto-detected)
+2019-08-25 15:19:26,512 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:19:26,513 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:19:26,514 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:19:26,516 - -Dio.netty.initialSeedUniquifier: 0x0f5fca44dc720b17
+2019-08-25 15:19:26,530 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:19:26,531 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:19:26,562 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:19:26,563 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:19:26,564 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:19:26,564 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:19:26,580 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:19:26,581 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:19:26,581 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:19:40,711 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 15:19:40,713 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@489813e9
+2019-08-25 15:19:40,746 - 客户端加入连接：[id: 0x47159b89, L:/127.0.0.1:6789 - R:/127.0.0.1:32976]
+2019-08-25 15:19:40,751 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 15:19:40,751 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 15:19:40,751 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 15:19:40,763 - ===================进入=======================
+2019-08-25 15:19:40,764 - http
+2019-08-25 15:19:40,764 - URL: /Login
+2019-08-25 15:19:40,764 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 15:19:40,825 - 返回数据abcccc
+2019-08-25 15:21:44,781 - Using Log4J as the default logging framework
+2019-08-25 15:21:44,788 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:21:44,832 - java.nio.Buffer.address: available
+2019-08-25 15:21:44,833 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:21:44,833 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:21:44,835 - java.nio.Bits.unaligned: true
+2019-08-25 15:21:44,835 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:21:44,836 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:21:44,837 - Java version: 8
+2019-08-25 15:21:44,838 - -Dio.netty.noUnsafe: false
+2019-08-25 15:21:44,838 - sun.misc.Unsafe: available
+2019-08-25 15:21:44,838 - -Dio.netty.noJavassist: false
+2019-08-25 15:21:44,839 - Javassist: unavailable
+2019-08-25 15:21:44,839 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:21:44,840 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:21:44,840 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:21:44,840 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:21:44,841 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:21:44,874 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:21:44,874 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:21:44,940 - -Dio.netty.processId: 23116 (auto-detected)
+2019-08-25 15:21:44,943 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:21:44,944 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:21:44,945 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:21:44,946 - -Dio.netty.initialSeedUniquifier: 0x99801d304949537c
+2019-08-25 15:21:44,960 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:21:44,960 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:21:45,005 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:21:45,005 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:21:45,005 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:21:45,005 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:21:45,005 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:21:45,005 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:21:45,006 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:21:45,006 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:21:45,006 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:21:45,006 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:21:45,017 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:21:45,017 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:21:45,017 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:22:00,981 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 15:22:00,983 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6357937b
+2019-08-25 15:22:01,020 - 客户端加入连接：[id: 0xb4245f12, L:/127.0.0.1:6789 - R:/127.0.0.1:34164]
+2019-08-25 15:22:01,025 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 15:22:01,025 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 15:22:01,025 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 15:22:01,039 - ===================进入=======================
+2019-08-25 15:22:01,039 - http
+2019-08-25 15:22:01,039 - URL: /Login
+2019-08-25 15:22:01,040 - data {"uid":"xxx","uname":"xxx","pwd":"xxxxxx"}
+2019-08-25 15:22:01,097 - 返回数据abcccc
+2019-08-25 15:29:10,774 - Using Log4J as the default logging framework
+2019-08-25 15:29:10,784 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:29:10,825 - java.nio.Buffer.address: available
+2019-08-25 15:29:10,825 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:29:10,826 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:29:10,826 - java.nio.Bits.unaligned: true
+2019-08-25 15:29:10,826 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:29:10,828 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:29:10,830 - Java version: 8
+2019-08-25 15:29:10,830 - -Dio.netty.noUnsafe: false
+2019-08-25 15:29:10,830 - sun.misc.Unsafe: available
+2019-08-25 15:29:10,830 - -Dio.netty.noJavassist: false
+2019-08-25 15:29:10,831 - Javassist: unavailable
+2019-08-25 15:29:10,831 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:29:10,832 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:29:10,832 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:29:10,833 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:29:10,833 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:29:10,904 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:29:10,906 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:29:10,964 - -Dio.netty.processId: 24020 (auto-detected)
+2019-08-25 15:29:10,967 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:29:10,968 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:29:10,969 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:29:10,971 - -Dio.netty.initialSeedUniquifier: 0xa46b0fb8615addd2
+2019-08-25 15:29:10,985 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:29:10,986 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:29:11,019 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:29:11,019 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:29:11,019 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:29:11,020 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:29:11,032 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:29:11,032 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:29:11,032 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:29:16,110 - Using Log4J as the default logging framework
+2019-08-25 15:29:16,116 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:29:16,172 - java.nio.Buffer.address: available
+2019-08-25 15:29:16,173 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:29:16,173 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:29:16,178 - java.nio.Bits.unaligned: true
+2019-08-25 15:29:16,179 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:29:16,180 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:29:16,181 - Java version: 8
+2019-08-25 15:29:16,182 - -Dio.netty.noUnsafe: false
+2019-08-25 15:29:16,182 - sun.misc.Unsafe: available
+2019-08-25 15:29:16,182 - -Dio.netty.noJavassist: false
+2019-08-25 15:29:16,183 - Javassist: unavailable
+2019-08-25 15:29:16,183 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:29:16,184 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:29:16,184 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:29:16,185 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:29:16,185 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:29:16,213 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:29:16,214 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:29:16,254 - -Dio.netty.processId: 24095 (auto-detected)
+2019-08-25 15:29:16,256 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:29:16,257 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:29:16,258 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:29:16,259 - -Dio.netty.initialSeedUniquifier: 0xf72d67ad407cc3b5
+2019-08-25 15:29:16,270 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:29:16,270 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:29:16,296 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:29:16,296 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:29:16,297 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:29:16,307 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:29:16,307 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:29:16,307 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:32:19,292 - Using Log4J as the default logging framework
+2019-08-25 15:32:19,301 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:32:19,355 - java.nio.Buffer.address: available
+2019-08-25 15:32:19,358 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:32:19,358 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:32:19,359 - java.nio.Bits.unaligned: true
+2019-08-25 15:32:19,359 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:32:19,362 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:32:19,364 - Java version: 8
+2019-08-25 15:32:19,364 - -Dio.netty.noUnsafe: false
+2019-08-25 15:32:19,364 - sun.misc.Unsafe: available
+2019-08-25 15:32:19,365 - -Dio.netty.noJavassist: false
+2019-08-25 15:32:19,367 - Javassist: unavailable
+2019-08-25 15:32:19,367 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:32:19,367 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:32:19,368 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:32:19,369 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:32:19,369 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:32:19,439 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:32:19,439 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:32:19,499 - -Dio.netty.processId: 24568 (auto-detected)
+2019-08-25 15:32:19,504 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:32:19,505 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:32:19,507 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:32:19,509 - -Dio.netty.initialSeedUniquifier: 0xf711d4045da2e0a6
+2019-08-25 15:32:19,524 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:32:19,524 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:32:19,560 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:32:19,560 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:32:19,561 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:32:19,562 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:32:19,572 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:32:19,572 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:32:19,572 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:32:26,454 - Using Log4J as the default logging framework
+2019-08-25 15:32:26,461 - -Dio.netty.eventLoopThreads: 8
+2019-08-25 15:32:26,518 - java.nio.Buffer.address: available
+2019-08-25 15:32:26,518 - sun.misc.Unsafe.theUnsafe: available
+2019-08-25 15:32:26,519 - sun.misc.Unsafe.copyMemory: available
+2019-08-25 15:32:26,520 - java.nio.Bits.unaligned: true
+2019-08-25 15:32:26,520 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-08-25 15:32:26,521 - java.nio.ByteBuffer.cleaner(): available
+2019-08-25 15:32:26,523 - Java version: 8
+2019-08-25 15:32:26,523 - -Dio.netty.noUnsafe: false
+2019-08-25 15:32:26,523 - sun.misc.Unsafe: available
+2019-08-25 15:32:26,523 - -Dio.netty.noJavassist: false
+2019-08-25 15:32:26,525 - Javassist: unavailable
+2019-08-25 15:32:26,525 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-08-25 15:32:26,526 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-08-25 15:32:26,527 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-08-25 15:32:26,527 - -Dio.netty.noPreferDirect: false
+2019-08-25 15:32:26,528 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-08-25 15:32:26,558 - -Dio.netty.noKeySetOptimization: false
+2019-08-25 15:32:26,560 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-08-25 15:32:26,622 - -Dio.netty.processId: 24651 (auto-detected)
+2019-08-25 15:32:26,625 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-08-25 15:32:26,626 - /proc/sys/net/core/somaxconn: 512
+2019-08-25 15:32:26,627 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-08-25 15:32:26,629 - -Dio.netty.initialSeedUniquifier: 0xcac8c268c3ad7b7e
+2019-08-25 15:32:26,641 - -Dio.netty.leakDetection.level: simple
+2019-08-25 15:32:26,641 - -Dio.netty.leakDetection.maxRecords: 4
+2019-08-25 15:32:26,669 - -Dio.netty.allocator.numHeapArenas: 8
+2019-08-25 15:32:26,669 - -Dio.netty.allocator.numDirectArenas: 8
+2019-08-25 15:32:26,669 - -Dio.netty.allocator.pageSize: 8192
+2019-08-25 15:32:26,669 - -Dio.netty.allocator.maxOrder: 11
+2019-08-25 15:32:26,670 - -Dio.netty.allocator.chunkSize: 16777216
+2019-08-25 15:32:26,670 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-08-25 15:32:26,670 - -Dio.netty.allocator.smallCacheSize: 256
+2019-08-25 15:32:26,670 - -Dio.netty.allocator.normalCacheSize: 64
+2019-08-25 15:32:26,670 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-08-25 15:32:26,670 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-08-25 15:32:26,681 - -Dio.netty.allocator.type: pooled
+2019-08-25 15:32:26,682 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-08-25 15:32:26,682 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-08-25 15:32:32,545 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-08-25 15:32:32,547 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6357937b
+2019-08-25 15:32:32,582 - 客户端加入连接：[id: 0x6ad1a391, L:/127.0.0.1:6789 - R:/127.0.0.1:39628]
+2019-08-25 15:32:32,587 - -Dio.netty.recycler.maxCapacity: 32768
+2019-08-25 15:32:32,587 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-08-25 15:32:32,587 - -Dio.netty.recycler.linkCapacity: 16
+2019-08-25 15:32:32,600 - ===================进入=======================
+2019-08-25 15:32:32,601 - http
+2019-08-25 15:32:32,638 - [id: 0x6ad1a391, L:/127.0.0.1:6789 - R:/127.0.0.1:39628] WebSocket version V13 server handshake
+2019-08-25 15:32:32,651 - WebSocket version 13 server handshake key: PJSOsvi7fDQYsTRiSnfLTQ==, response: jV9GAPPr2ZvT0ZsdPE5Xx3hamMw=
+2019-08-25 15:32:32,664 - 返回数据
+2019-08-25 15:32:43,909 - Decoding WebSocket Frame opCode=1
+2019-08-25 15:32:43,910 - Decoding WebSocket Frame length=3
+2019-08-25 15:32:43,911 - ===================进入=======================
+2019-08-25 15:32:43,911 - websocket
+2019-08-25 15:32:43,912 - 服务端收到：eee
+2019-08-25 15:32:43,987 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.net.ConnectException: 拒绝连接 (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.rabbitmq.client.ConnectionFactory.createFrameHandler(ConnectionFactory.java:445)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:504)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:533)
+	at server.ServerHandler.handlerWebSocketFrame(ServerHandler.java:161)
+	at server.ServerHandler.channelRead(ServerHandler.java:57)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
