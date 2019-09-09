@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <script src="jquery-3.3.1.js"></script>
-    <script src="jquery-3.3.1.min.js"></script>
+    <title>hello</title>
+    <script src="jquery-3.4.1.js"></script>
 </head>
 <body>
 <button class="btn"  id="demo">测试</button>
@@ -15,7 +14,7 @@
             type: "post",//数据发送的方式（post 或者 get）
             // head: "application/json; charset=UTF-8",
             url: "http://localhost:6789/ABC",//要发送的后台地址
-            data: '{"uid":"xxx","uname":"xxx","pwd":"xxxx"}', //要发送的数据（参数）格式
+            data: '{"uid":"1111","uname":"111","pwd":"xxxx1111"}', //要发送的数据（参数）格式
             dataType: "json",//后台处理后返回的数据格式
             //  traditional: true,                 //  加上序列化参数
             success: function (data) {//ajax请求成功后触发的方法

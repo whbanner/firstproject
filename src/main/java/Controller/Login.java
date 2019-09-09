@@ -17,9 +17,11 @@ public class Login {
     public String Return(String data){
 
         System.out.println("aaa"+data);
+        //讲json已kv的形式存入User中
         User user= JSON.parseObject(data,User.class);
         String uid= user.getUid();
         String pwd= user.getPwd();
+        System.out.println("==============="+data);
 //        if (RedisOperating.exits(uid)){
 //            if (pwd==RedisOperating.get(uid)){
 //                return "t";
@@ -36,7 +38,7 @@ public class Login {
 //            else
 //                return "f";
 //        }
-        return "t";
+        return data;
     }
 
 
