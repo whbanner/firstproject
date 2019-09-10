@@ -1,232 +1,40 @@
-2019-09-06 10:42:39,232 - Using Log4J as the default logging framework
-2019-09-06 10:42:39,249 - -Dio.netty.eventLoopThreads: 8
-2019-09-06 10:42:39,311 - java.nio.Buffer.address: available
-2019-09-06 10:42:39,312 - sun.misc.Unsafe.theUnsafe: available
-2019-09-06 10:42:39,313 - sun.misc.Unsafe.copyMemory: available
-2019-09-06 10:42:39,314 - java.nio.Bits.unaligned: true
-2019-09-06 10:42:39,315 - java.nio.DirectByteBuffer.<init>(long, int): available
-2019-09-06 10:42:39,317 - java.nio.ByteBuffer.cleaner(): available
-2019-09-06 10:42:39,319 - Java version: 8
-2019-09-06 10:42:39,319 - -Dio.netty.noUnsafe: false
-2019-09-06 10:42:39,320 - sun.misc.Unsafe: available
-2019-09-06 10:42:39,320 - -Dio.netty.noJavassist: false
-2019-09-06 10:42:39,322 - Javassist: unavailable
-2019-09-06 10:42:39,323 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
-2019-09-06 10:42:39,323 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
-2019-09-06 10:42:39,324 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
-2019-09-06 10:42:39,325 - -Dio.netty.noPreferDirect: false
-2019-09-06 10:42:39,326 - io.netty.maxDirectMemory: 3618635776 bytes
-2019-09-06 10:42:39,409 - -Dio.netty.noKeySetOptimization: false
-2019-09-06 10:42:39,409 - -Dio.netty.selectorAutoRebuildThreshold: 512
-2019-09-06 10:42:39,475 - -Dio.netty.processId: 13261 (auto-detected)
-2019-09-06 10:42:39,483 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
-2019-09-06 10:42:39,487 - /proc/sys/net/core/somaxconn: 512
-2019-09-06 10:42:39,493 - -Dio.netty.initialSeedUniquifier: 0x3a12a483c072ebee
-2019-09-06 10:42:39,494 - Failed to find a usable hardware address from the network interfaces; using random bytes: f1:9c:27:8d:90:ef:39:7c
-2019-09-06 10:42:39,495 - -Dio.netty.machineId: f1:9c:27:8d:90:ef:39:7c (auto-detected)
-2019-09-06 10:42:39,518 - -Dio.netty.leakDetection.level: simple
-2019-09-06 10:42:39,519 - -Dio.netty.leakDetection.maxRecords: 4
-2019-09-06 10:42:39,560 - -Dio.netty.allocator.numHeapArenas: 8
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.numDirectArenas: 8
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.pageSize: 8192
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.maxOrder: 11
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.chunkSize: 16777216
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.tinyCacheSize: 512
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.smallCacheSize: 256
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.normalCacheSize: 64
-2019-09-06 10:42:39,561 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
-2019-09-06 10:42:39,562 - -Dio.netty.allocator.cacheTrimInterval: 8192
-2019-09-06 10:42:39,574 - -Dio.netty.allocator.type: pooled
-2019-09-06 10:42:39,574 - -Dio.netty.threadLocalDirectBufferSize: 65536
-2019-09-06 10:42:39,574 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
-2019-09-06 10:43:06,044 - -Dio.netty.buffer.bytebuf.checkAccessible: true
-2019-09-06 10:43:06,046 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2117e3bf
-2019-09-06 10:43:06,162 - 客户端加入连接：[id: 0x0bef65ce, L:/127.0.0.1:6789 - R:/127.0.0.1:57062]
-2019-09-06 10:43:06,178 - -Dio.netty.recycler.maxCapacity: 32768
-2019-09-06 10:43:06,179 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
-2019-09-06 10:43:06,179 - -Dio.netty.recycler.linkCapacity: 16
-2019-09-06 10:43:06,202 - ===================进入=======================
-2019-09-06 10:43:09,652 - http
-2019-09-06 10:43:14,684 - URL: /Login
-2019-09-06 10:43:14,692 - data {"uid":"wh","uname":"whh","pwd":"123"}
-2019-09-06 10:44:46,514 - 返回数据{"uid":"wh","uname":"whh","pwd":"123"}
-2019-09-06 10:45:21,571 - Using Log4J as the default logging framework
-2019-09-06 10:45:21,587 - -Dio.netty.eventLoopThreads: 8
-2019-09-06 10:45:21,674 - java.nio.Buffer.address: available
-2019-09-06 10:45:21,675 - sun.misc.Unsafe.theUnsafe: available
-2019-09-06 10:45:21,676 - sun.misc.Unsafe.copyMemory: available
-2019-09-06 10:45:21,682 - java.nio.Bits.unaligned: true
-2019-09-06 10:45:21,682 - java.nio.DirectByteBuffer.<init>(long, int): available
-2019-09-06 10:45:21,687 - java.nio.ByteBuffer.cleaner(): available
-2019-09-06 10:45:21,692 - Java version: 8
-2019-09-06 10:45:21,692 - -Dio.netty.noUnsafe: false
-2019-09-06 10:45:21,692 - sun.misc.Unsafe: available
-2019-09-06 10:45:21,693 - -Dio.netty.noJavassist: false
-2019-09-06 10:45:21,694 - Javassist: unavailable
-2019-09-06 10:45:21,695 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
-2019-09-06 10:45:21,698 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
-2019-09-06 10:45:21,699 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
-2019-09-06 10:45:21,700 - -Dio.netty.noPreferDirect: false
-2019-09-06 10:45:21,700 - io.netty.maxDirectMemory: 3618635776 bytes
-2019-09-06 10:45:21,810 - -Dio.netty.noKeySetOptimization: false
-2019-09-06 10:45:21,815 - -Dio.netty.selectorAutoRebuildThreshold: 512
-2019-09-06 10:45:21,891 - -Dio.netty.processId: 13571 (auto-detected)
-2019-09-06 10:45:21,894 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
-2019-09-06 10:45:21,895 - /proc/sys/net/core/somaxconn: 512
-2019-09-06 10:45:21,897 - -Dio.netty.initialSeedUniquifier: 0x1a50ae9a9ffba2a5
-2019-09-06 10:45:21,898 - Failed to find a usable hardware address from the network interfaces; using random bytes: ab:7a:be:4d:80:97:ea:bb
-2019-09-06 10:45:21,899 - -Dio.netty.machineId: ab:7a:be:4d:80:97:ea:bb (auto-detected)
-2019-09-06 10:45:21,913 - -Dio.netty.leakDetection.level: simple
-2019-09-06 10:45:21,913 - -Dio.netty.leakDetection.maxRecords: 4
-2019-09-06 10:45:21,947 - -Dio.netty.allocator.numHeapArenas: 8
-2019-09-06 10:45:21,947 - -Dio.netty.allocator.numDirectArenas: 8
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.pageSize: 8192
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.maxOrder: 11
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.chunkSize: 16777216
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.tinyCacheSize: 512
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.smallCacheSize: 256
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.normalCacheSize: 64
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
-2019-09-06 10:45:21,948 - -Dio.netty.allocator.cacheTrimInterval: 8192
-2019-09-06 10:45:21,958 - -Dio.netty.allocator.type: pooled
-2019-09-06 10:45:21,958 - -Dio.netty.threadLocalDirectBufferSize: 65536
-2019-09-06 10:45:21,958 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
-2019-09-06 10:45:28,938 - -Dio.netty.buffer.bytebuf.checkAccessible: true
-2019-09-06 10:45:28,942 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76d7b5da
-2019-09-06 10:45:29,070 - 客户端加入连接：[id: 0x5df83e83, L:/127.0.0.1:6789 - R:/127.0.0.1:57090]
-2019-09-06 10:45:29,093 - -Dio.netty.recycler.maxCapacity: 32768
-2019-09-06 10:45:29,094 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
-2019-09-06 10:45:29,094 - -Dio.netty.recycler.linkCapacity: 16
-2019-09-06 10:45:29,140 - ===================进入=======================
-2019-09-06 10:45:31,912 - http
-2019-09-06 10:45:48,814 - URL: /ABC
-2019-09-06 10:45:48,824 - data {"uid":"1111","uname":"111","pwd":"xxxx1111"}
-2019-09-06 10:45:48,835 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
-java.lang.ClassNotFoundException: Controller.ABC
-	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
-	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
-	at java.lang.Class.forName0(Native Method)
-	at java.lang.Class.forName(Class.java:264)
-	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
-	at server.ServerHandler.channelRead(ServerHandler.java:49)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2019-09-06 10:45:52,452 - Using Log4J as the default logging framework
-2019-09-06 10:45:52,471 - -Dio.netty.eventLoopThreads: 8
-2019-09-06 10:45:52,539 - java.nio.Buffer.address: available
-2019-09-06 10:45:52,540 - sun.misc.Unsafe.theUnsafe: available
-2019-09-06 10:45:52,540 - sun.misc.Unsafe.copyMemory: available
-2019-09-06 10:45:52,542 - java.nio.Bits.unaligned: true
-2019-09-06 10:45:52,542 - java.nio.DirectByteBuffer.<init>(long, int): available
-2019-09-06 10:45:52,547 - java.nio.ByteBuffer.cleaner(): available
-2019-09-06 10:45:52,548 - Java version: 8
-2019-09-06 10:45:52,549 - -Dio.netty.noUnsafe: false
-2019-09-06 10:45:52,549 - sun.misc.Unsafe: available
-2019-09-06 10:45:52,549 - -Dio.netty.noJavassist: false
-2019-09-06 10:45:52,551 - Javassist: unavailable
-2019-09-06 10:45:52,551 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
-2019-09-06 10:45:52,552 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
-2019-09-06 10:45:52,553 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
-2019-09-06 10:45:52,553 - -Dio.netty.noPreferDirect: false
-2019-09-06 10:45:52,554 - io.netty.maxDirectMemory: 3618635776 bytes
-2019-09-06 10:45:52,619 - -Dio.netty.noKeySetOptimization: false
-2019-09-06 10:45:52,619 - -Dio.netty.selectorAutoRebuildThreshold: 512
-2019-09-06 10:45:52,733 - -Dio.netty.processId: 13640 (auto-detected)
-2019-09-06 10:45:52,741 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
-2019-09-06 10:45:52,749 - /proc/sys/net/core/somaxconn: 512
-2019-09-06 10:45:52,756 - -Dio.netty.initialSeedUniquifier: 0x81e4f984bbeb1f5e
-2019-09-06 10:45:52,757 - Failed to find a usable hardware address from the network interfaces; using random bytes: ca:ad:6d:30:ad:de:93:92
-2019-09-06 10:45:52,759 - -Dio.netty.machineId: ca:ad:6d:30:ad:de:93:92 (auto-detected)
-2019-09-06 10:45:52,779 - -Dio.netty.leakDetection.level: simple
-2019-09-06 10:45:52,779 - -Dio.netty.leakDetection.maxRecords: 4
-2019-09-06 10:45:52,817 - -Dio.netty.allocator.numHeapArenas: 8
-2019-09-06 10:45:52,818 - -Dio.netty.allocator.numDirectArenas: 8
-2019-09-06 10:45:52,818 - -Dio.netty.allocator.pageSize: 8192
-2019-09-06 10:45:52,818 - -Dio.netty.allocator.maxOrder: 11
-2019-09-06 10:45:52,818 - -Dio.netty.allocator.chunkSize: 16777216
-2019-09-06 10:45:52,818 - -Dio.netty.allocator.tinyCacheSize: 512
-2019-09-06 10:45:52,819 - -Dio.netty.allocator.smallCacheSize: 256
-2019-09-06 10:45:52,819 - -Dio.netty.allocator.normalCacheSize: 64
-2019-09-06 10:45:52,819 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
-2019-09-06 10:45:52,819 - -Dio.netty.allocator.cacheTrimInterval: 8192
-2019-09-06 10:45:52,847 - -Dio.netty.allocator.type: pooled
-2019-09-06 10:45:52,847 - -Dio.netty.threadLocalDirectBufferSize: 65536
-2019-09-06 10:45:52,847 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
-2019-09-06 10:45:57,242 - -Dio.netty.buffer.bytebuf.checkAccessible: true
-2019-09-06 10:45:57,244 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@c398b29
-2019-09-06 10:45:57,289 - 客户端加入连接：[id: 0x625657f8, L:/127.0.0.1:6789 - R:/127.0.0.1:57114]
-2019-09-06 10:45:57,296 - -Dio.netty.recycler.maxCapacity: 32768
-2019-09-06 10:45:57,297 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
-2019-09-06 10:45:57,297 - -Dio.netty.recycler.linkCapacity: 16
-2019-09-06 10:45:57,321 - ===================进入=======================
-2019-09-06 10:46:40,626 - http
-2019-09-06 10:46:54,305 - URL: /ABC
-2019-09-06 10:47:00,145 - data {"uid":"1111","uname":"111","pwd":"xxxx1111"}
-2019-09-06 10:47:02,314 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
-java.lang.ClassNotFoundException: Controller.ABC
-	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
-	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
-	at java.lang.Class.forName0(Native Method)
-	at java.lang.Class.forName(Class.java:264)
-	at server.ServerHandler.handleHttpRequest(ServerHandler.java:87)
-	at server.ServerHandler.channelRead(ServerHandler.java:49)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:350)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:372)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:358)
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
+2019-09-10 08:32:06,585 - Using Log4J as the default logging framework
+2019-09-10 08:32:06,639 - -Dio.netty.eventLoopThreads: 8
+2019-09-10 08:32:06,789 - java.nio.Buffer.address: available
+2019-09-10 08:32:06,790 - sun.misc.Unsafe.theUnsafe: available
+2019-09-10 08:32:06,793 - sun.misc.Unsafe.copyMemory: available
+2019-09-10 08:32:06,794 - java.nio.Bits.unaligned: true
+2019-09-10 08:32:06,794 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-09-10 08:32:06,798 - java.nio.ByteBuffer.cleaner(): available
+2019-09-10 08:32:06,800 - Java version: 8
+2019-09-10 08:32:06,800 - -Dio.netty.noUnsafe: false
+2019-09-10 08:32:06,801 - sun.misc.Unsafe: available
+2019-09-10 08:32:06,803 - -Dio.netty.noJavassist: false
+2019-09-10 08:32:06,805 - Javassist: unavailable
+2019-09-10 08:32:06,805 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-09-10 08:32:06,805 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-09-10 08:32:06,806 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-09-10 08:32:06,808 - -Dio.netty.noPreferDirect: false
+2019-09-10 08:32:06,808 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-09-10 08:32:06,864 - -Dio.netty.noKeySetOptimization: false
+2019-09-10 08:32:06,865 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-09-10 08:32:06,935 - -Dio.netty.processId: 9894 (auto-detected)
+2019-09-10 08:32:06,938 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-09-10 08:32:06,940 - /proc/sys/net/core/somaxconn: 512
+2019-09-10 08:32:06,942 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-09-10 08:32:06,945 - -Dio.netty.initialSeedUniquifier: 0xf170e338979e78e7
+2019-09-10 08:32:06,958 - -Dio.netty.leakDetection.level: simple
+2019-09-10 08:32:06,959 - -Dio.netty.leakDetection.maxRecords: 4
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.numHeapArenas: 8
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.numDirectArenas: 8
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.pageSize: 8192
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.maxOrder: 11
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.chunkSize: 16777216
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.smallCacheSize: 256
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.normalCacheSize: 64
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-09-10 08:32:06,991 - -Dio.netty.allocator.type: pooled
+2019-09-10 08:32:06,992 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-09-10 08:32:06,992 - -Dio.netty.maxThreadLocalCharBufferSize: 16384

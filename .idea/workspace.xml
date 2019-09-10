@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c9e5a7-17b9-4587-a3fd-aa4d8fafe779" name="Default Changelist" comment="USER">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e9c9e5a7-17b9-4587-a3fd-aa4d8fafe779" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Resources/ddd.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Resources/ddd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Resources/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Resources/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/Register.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/server/NettyServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Resources/ddd.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Controller/Register.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -159,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/java/service/ChannelSupervise.java" />
         <option value="$PROJECT_DIR$/src/main/java/service/HandleReqHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Controller/hello.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pojo/Kk.java" />
         <option value="$PROJECT_DIR$/src/main/java/Controller/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/java/server/ChannelSupervise.java" />
@@ -173,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Controller/Register.java" />
         <option value="$PROJECT_DIR$/src/main/Resources/ddd.html" />
         <option value="$PROJECT_DIR$/src/main/Resources/login.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -415,7 +408,7 @@
       <workItem from="1567761853999" duration="682000" />
       <workItem from="1568030947542" duration="681000" />
       <workItem from="1568031641845" duration="2104000" />
-      <workItem from="1568074191798" duration="888000" />
+      <workItem from="1568074191798" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1566629365900</created>
@@ -445,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568031811997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="USER">
+      <created>1568075142908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568075142909</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78945000" />
+    <option name="totallyTimeSpent" value="79268000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -559,13 +559,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/service/HandleReqHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/service/NettyServer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/Resources/HTML/ddd.html" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.4.Final/netty-all-4.1.4.Final-sources.jar!/io/netty/handler/codec/http/DefaultFullHttpResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1100">
@@ -826,6 +819,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
         </state>
       </provider>
     </entry>
