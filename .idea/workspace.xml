@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c9e5a7-17b9-4587-a3fd-aa4d8fafe779" name="Default Changelist" comment="USER">
-      <change afterPath="$PROJECT_DIR$/src/main/Resources/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/Register.java" afterDir="false" />
-    </list>
+    <list default="true" id="e9c9e5a7-17b9-4587-a3fd-aa4d8fafe779" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -416,7 +412,7 @@
       <workItem from="1568074191798" duration="3227000" />
       <workItem from="1568161260890" duration="379000" />
       <workItem from="1568161702242" duration="677000" />
-      <workItem from="1568302355015" duration="1037000" />
+      <workItem from="1568302355015" duration="1089000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1566629365900</created>
@@ -460,11 +456,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568075564553</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Register">
+      <created>1568303405823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568303405823</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83377000" />
+    <option name="totallyTimeSpent" value="83429000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -533,7 +536,8 @@
     </ignored-roots>
     <MESSAGE value="x" />
     <MESSAGE value="USER" />
-    <option name="LAST_COMMIT_MESSAGE" value="USER" />
+    <MESSAGE value="Register" />
+    <option name="LAST_COMMIT_MESSAGE" value="Register" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
