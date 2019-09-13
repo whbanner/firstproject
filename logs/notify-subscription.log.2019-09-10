@@ -1,0 +1,40 @@
+2019-09-10 08:32:06,585 - Using Log4J as the default logging framework
+2019-09-10 08:32:06,639 - -Dio.netty.eventLoopThreads: 8
+2019-09-10 08:32:06,789 - java.nio.Buffer.address: available
+2019-09-10 08:32:06,790 - sun.misc.Unsafe.theUnsafe: available
+2019-09-10 08:32:06,793 - sun.misc.Unsafe.copyMemory: available
+2019-09-10 08:32:06,794 - java.nio.Bits.unaligned: true
+2019-09-10 08:32:06,794 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-09-10 08:32:06,798 - java.nio.ByteBuffer.cleaner(): available
+2019-09-10 08:32:06,800 - Java version: 8
+2019-09-10 08:32:06,800 - -Dio.netty.noUnsafe: false
+2019-09-10 08:32:06,801 - sun.misc.Unsafe: available
+2019-09-10 08:32:06,803 - -Dio.netty.noJavassist: false
+2019-09-10 08:32:06,805 - Javassist: unavailable
+2019-09-10 08:32:06,805 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-09-10 08:32:06,805 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2019-09-10 08:32:06,806 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-09-10 08:32:06,808 - -Dio.netty.noPreferDirect: false
+2019-09-10 08:32:06,808 - io.netty.maxDirectMemory: 3618635776 bytes
+2019-09-10 08:32:06,864 - -Dio.netty.noKeySetOptimization: false
+2019-09-10 08:32:06,865 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-09-10 08:32:06,935 - -Dio.netty.processId: 9894 (auto-detected)
+2019-09-10 08:32:06,938 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2019-09-10 08:32:06,940 - /proc/sys/net/core/somaxconn: 512
+2019-09-10 08:32:06,942 - -Dio.netty.machineId: 98:54:1b:ff:fe:d3:b3:4b (auto-detected)
+2019-09-10 08:32:06,945 - -Dio.netty.initialSeedUniquifier: 0xf170e338979e78e7
+2019-09-10 08:32:06,958 - -Dio.netty.leakDetection.level: simple
+2019-09-10 08:32:06,959 - -Dio.netty.leakDetection.maxRecords: 4
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.numHeapArenas: 8
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.numDirectArenas: 8
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.pageSize: 8192
+2019-09-10 08:32:06,980 - -Dio.netty.allocator.maxOrder: 11
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.chunkSize: 16777216
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.smallCacheSize: 256
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.normalCacheSize: 64
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-09-10 08:32:06,981 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-09-10 08:32:06,991 - -Dio.netty.allocator.type: pooled
+2019-09-10 08:32:06,992 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-09-10 08:32:06,992 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
