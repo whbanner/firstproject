@@ -21,6 +21,6 @@ public class FirstPopup {
         String weight = fp.getWeight();
         String height = fp.getHeight();
 
-        return  "t";
+        return  data;
     }
 }
