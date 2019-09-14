@@ -7,27 +7,29 @@
 </head>
 <body>
 <h2>登录页面</h2>
-<div>手机号：<input type="text" id="uid"/></div>
+<div>手机号：<input type="text" id="phone"/></div>
 <div>密码：<input type="text" id="pwd"/></div>
-<div>验证码：<input type="text" id="rcode"/></div>
+<div>验证码：<input type="text" id="verificationCode"/></div>
 
 <div><input type="button" id="btn" value="登录"/></div>
 <script type="text/javascript">
     $("#btn").click(function(){
         //第一步：取数据,这里用到了用户名和密码
-        var uid=$("#uid").val();
+        var phone=$("#phone").val();
         var pwd=$("#pwd").val();
+        var pwd=$("#pwd").val();
+        var verificationCode=$("#verificationCode").val();
         //第二步：验证数据，这里需要从数据库调数据，我们就用到了ajax
         $.ajax({
-            url:"http://localhost:6789/RegiserC",//请求地址
-            data:'{"uid":"'+uid+'","pwd":"'+pwd+'"}',//提交的数据
+            url:"http://localhost:6789/RegisterC",//请求地址
+            data:'{"uid":"'+phone+'","pwd":"'+pwd+'","verificationCode":"'+verificationCode+'"}',//提交的数据
             type:"POST",//提交的方式
             dataType:"json", //返回类型 TEXT字符串 JSON XML
             success:function(data){
                 //开始之前要去空格，用trim()
                 if(data.trim()=="OK")
                 {
-                    window.location.href = "ddd.html";
+                    window.location.href = "login.html";
                 }
                 else{
                     alert("用户名或者密码错误");
